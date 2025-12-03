@@ -114,7 +114,7 @@ Update Student
 Search Student
 View All Students
 Exit Enter your choice: 1
-Enter Roll No: 101 Enter Name: Rahul Enter Email: rahul@mail.com Enter Course: B.Tech Enter Marks: 87 Student added successfully!
+Enter Roll No: 101 Enter Name: ankit Enter Email: ankit@mail.com Enter Course: B.Tech Enter Marks: 85 Student added successfully!
 
 🧠 Learning Outcomes
 
